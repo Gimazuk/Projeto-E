@@ -15,7 +15,7 @@ header{
     padding: 12px;
     justify-content: space-around;
     background-color: black;
-    color: rgb(196, 255, 119);
+    color: rgb(255, 255, 255);
     position: relative;
 }
 
@@ -57,7 +57,7 @@ a{
 section{
     display: flex;
     align-items: center;
-    background-color: rgb(255, 1, 1);
+    background-color: rgb(156, 255, 194);
     color: black;
     margin: 10px 0;
     padding: 10px 20px;
