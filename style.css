@@ -15,7 +15,7 @@ header{
     padding: 12px;
     justify-content: space-around;
     background-color: black;
-    color: white;
+    color: rgb(196, 255, 119);
     position: relative;
 }
 
@@ -23,11 +23,11 @@ ul li{
     list-style: none;
 }
 .texto{
-    color: white;
+    color: rgb(0, 255, 128);
 }
 
 a{
-    color: white;
+    color: rgb(87, 0, 248);
     text-decoration: none;
 }
 
@@ -57,7 +57,7 @@ a{
 section{
     display: flex;
     align-items: center;
-    background-color: white;
+    background-color: rgb(255, 1, 1);
     color: black;
     margin: 10px 0;
     padding: 10px 20px;
